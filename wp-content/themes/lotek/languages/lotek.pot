@@ -1,0 +1,2665 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lotek — Modern App Landing Page Wordpress Theme\n"
+"POT-Creation-Date: 2016-01-02 21:34+0700\n"
+"PO-Revision-Date: 2016-01-02 21:36+0700\n"
+"Last-Translator: \n"
+"Language-Team: CTHthemes <cththemes@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ../../\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: lotek\n"
+
+#: lotek/404.php:20
+msgid "Error 404"
+msgstr ""
+
+#: lotek/404.php:40
+msgid "404"
+msgstr ""
+
+#: lotek/404.php:43
+msgid "BACK TO HOME"
+msgstr ""
+
+#: lotek/author.php:35
+msgid "Follow on Twitter"
+msgstr ""
+
+#: lotek/author.php:38
+msgid "Like on Facebook"
+msgstr ""
+
+#: lotek/author.php:41
+msgid "Circle on Google Plus"
+msgstr ""
+
+#: lotek/author.php:44
+msgid "Be Friend on Linkedin"
+msgstr ""
+
+#: lotek/comments-portfolio.php:21 lotek/comments.php:21
+msgid "Leave a comment"
+msgstr ""
+
+#: lotek/comments-portfolio.php:35 lotek/comments.php:35
+msgid "Enter your full name..."
+msgstr ""
+
+#: lotek/comments-portfolio.php:38 lotek/comments.php:38
+msgid "Enter your email..."
+msgstr ""
+
+#: lotek/comments-portfolio.php:46 lotek/comments.php:46
+msgid "Your comment here..."
+msgstr ""
+
+#: lotek/comments-portfolio.php:51 lotek/comments.php:51
+msgid "leave comment"
+msgstr ""
+
+#: lotek/comments-portfolio.php:52 lotek/comments.php:52
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: lotek/comments-portfolio.php:53 lotek/comments.php:53
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: lotek/comments-portfolio.php:87 lotek/comments.php:87
+msgid "Reply"
+msgstr ""
+
+#: lotek/comments-portfolio.php:108 lotek/comments.php:108
+msgid "<i class=\"fa fa-arrow-left\"></i>  Previous"
+msgstr ""
+
+#: lotek/comments-portfolio.php:109 lotek/comments.php:109
+msgid "Next <i class=\"fa fa-arrow-right\"></i>"
+msgstr ""
+
+#: lotek/content-audio.php:32 lotek/content-gallery.php:42
+#: lotek/content-search.php:27 lotek/content-video.php:32 lotek/content.php:49
+#: lotek/single-portfolio.php:73 lotek/single.php:107 lotek/single.php:228
+msgid "d"
+msgstr ""
+
+#: lotek/content-audio.php:33 lotek/content-gallery.php:43
+#: lotek/content-search.php:28 lotek/content-video.php:33 lotek/content.php:50
+#: lotek/single-portfolio.php:74 lotek/single.php:108 lotek/single.php:229
+msgid "m-Y"
+msgstr ""
+
+#: lotek/content-audio.php:54 lotek/content-gallery.php:64
+#: lotek/content-search.php:49 lotek/content-video.php:54 lotek/content.php:71
+#: lotek/single-portfolio.php:88 lotek/single.php:129 lotek/single.php:250
+#: lotek/vc_templates/blog_slider.php:104
+msgid "0"
+msgstr ""
+
+#: lotek/content-audio.php:54 lotek/content-gallery.php:64
+#: lotek/content-search.php:49 lotek/content-video.php:54 lotek/content.php:71
+#: lotek/single-portfolio.php:88 lotek/single.php:129 lotek/single.php:250
+#: lotek/vc_templates/blog_slider.php:104
+msgid "1"
+msgstr ""
+
+#: lotek/content-audio.php:54 lotek/content-gallery.php:64
+#: lotek/content-search.php:49 lotek/content-video.php:54 lotek/content.php:71
+#: lotek/single-portfolio.php:88 lotek/single.php:129 lotek/single.php:250
+#: lotek/vc_templates/blog_slider.php:104
+msgid "%"
+msgstr ""
+
+#: lotek/content-audio.php:65 lotek/content-gallery.php:75
+#: lotek/content-search.php:60 lotek/content-video.php:65 lotek/content.php:82
+#: lotek/single-portfolio.php:114 lotek/single.php:140
+msgid "Pages:"
+msgstr ""
+
+#: lotek/content-audio.php:72 lotek/content-gallery.php:82
+#: lotek/content-search.php:67 lotek/content-video.php:72 lotek/content.php:89
+#: lotek/single.php:258 lotek/vc_templates/blog_slider.php:111
+msgid "Read more..."
+msgstr ""
+
+#: lotek/content-none.php:19
+msgid "Nothing Found Here!"
+msgstr ""
+
+#: lotek/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: lotek/content-none.php:28
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: lotek/content-none.php:33
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: lotek/footer.php:54
+msgid "<i class=\"fa fa-chevron-up\"></i>"
+msgstr ""
+
+#: lotek/functions.php:67
+msgid "Main Navigation Menu"
+msgstr ""
+
+#: lotek/functions.php:68
+msgid "Landing Page Navigation Menu"
+msgstr ""
+
+#: lotek/functions.php:90
+msgid "Main Sidebar"
+msgstr ""
+
+#: lotek/functions.php:92
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+#: lotek/functions.php:100
+msgid "Page Sidebar"
+msgstr ""
+
+#: lotek/functions.php:102
+msgid "Appears in the sidebar section of the page template."
+msgstr ""
+
+#: lotek/functions.php:111
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: lotek/functions.php:113
+msgid "Appears in Footer 1."
+msgstr ""
+
+#: lotek/functions.php:121
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: lotek/functions.php:123
+msgid "Appears in Footer 2."
+msgstr ""
+
+#: lotek/functions.php:130
+msgid "Footer Widget Area 3"
+msgstr ""
+
+#: lotek/functions.php:132
+msgid "Appears in Footer 3."
+msgstr ""
+
+#: lotek/functions.php:140
+msgid "Footer Widget Area 4"
+msgstr ""
+
+#: lotek/functions.php:142
+msgid "Appears in Footer 4."
+msgstr ""
+
+#: lotek/functions.php:150
+msgid "Footer Copyright Area"
+msgstr ""
+
+#: lotek/functions.php:152
+msgid "Appears in Footer Copyright position."
+msgstr ""
+
+#: lotek/functions.php:162
+msgid "Footer Columns Widget"
+msgstr ""
+
+#: lotek/functions.php:164
+msgid "Appears above the footer copyright content."
+msgstr ""
+
+#: lotek/functions.php:371
+msgid "Page"
+msgstr ""
+
+#: lotek/functions.php:420
+msgctxt "Previous post link"
+msgid " &larr; Older Item"
+msgstr ""
+
+#: lotek/functions.php:423
+msgctxt "Next post link"
+msgid "Newer Item &rarr;"
+msgstr ""
+
+#: lotek/functions.php:433
+msgid "Search ..."
+msgstr ""
+
+#: lotek/functions.php:470
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: lotek/functions.php:539
+msgid "..."
+msgstr ""
+
+#: lotek/search.php:20
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: lotek/single-portfolio.php:171
+msgid "Other Products"
+msgstr ""
+
+#: lotek/single.php:195
+msgid "Related article"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:399
+#: lotek/framework/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:400
+#: lotek/framework/class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:828
+#: lotek/framework/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:935
+#: lotek/framework/class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:1881
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2235
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2491
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2495
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:3370
+#: lotek/framework/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:3370
+#: lotek/framework/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: lotek/framework/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/init.php:258
+msgid "Clear"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/init.php:259 lotek/inc/cth_for_vc.php:94
+msgid "Default"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/init.php:260
+msgid "Select Color"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/init.php:261
+msgid "Current Color"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/init.php:288
+msgid "Select / Deselect All"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/init.php:1179
+msgid "Save"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:90
+msgid "Portfolio Grid View"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:104
+msgid "Show Popup"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:109
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:121
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:187
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:276
+#: lotek/inc/cth_for_vc.php:167 lotek/vc_extend/vc_shortcodes.php:154
+#: lotek/vc_extend/vc_shortcodes.php:327 lotek/vc_extend/vc_shortcodes.php:339
+#: lotek/vc_extend/vc_shortcodes.php:361 lotek/vc_extend/vc_shortcodes.php:498
+#: lotek/vc_extend/vc_shortcodes.php:520 lotek/vc_extend/vc_shortcodes.php:930
+#: lotek/vc_extend/vc_shortcodes.php:1309
+#: lotek/vc_extend/vc_shortcodes.php:1660
+#: lotek/vc_extend/vc_shortcodes.php:1672
+#: lotek/vc_extend/vc_shortcodes.php:1694
+#: lotek/vc_extend/vc_shortcodes.php:1846
+msgid "Yes"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:110
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:122
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:188
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:277
+#: lotek/inc/cth_for_vc.php:166 lotek/vc_extend/vc_shortcodes.php:153
+#: lotek/vc_extend/vc_shortcodes.php:328 lotek/vc_extend/vc_shortcodes.php:340
+#: lotek/vc_extend/vc_shortcodes.php:360 lotek/vc_extend/vc_shortcodes.php:499
+#: lotek/vc_extend/vc_shortcodes.php:519 lotek/vc_extend/vc_shortcodes.php:929
+#: lotek/vc_extend/vc_shortcodes.php:1308
+#: lotek/vc_extend/vc_shortcodes.php:1661
+#: lotek/vc_extend/vc_shortcodes.php:1673
+#: lotek/vc_extend/vc_shortcodes.php:1693
+#: lotek/vc_extend/vc_shortcodes.php:1845
+msgid "No"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:116
+msgid "Show Link"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:132
+msgid "Portfolio Single View"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:141
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:142
+msgid "Portfolio Details"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:153
+msgid "Portfolio Subtitle"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:154
+msgid "Show in header"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:160
+msgid "Page Icon"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:161
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:194
+#: lotek/functions/admin-config.php:777 lotek/functions/admin-config.php:845
+#: lotek/inc/cth_for_vc.php:78 lotek/vc_extend/vc_shortcodes.php:89
+msgid ""
+"Search icon : <a href='http://fontawesome.io/icons/' target='_blank'>FONT "
+"AWESOME</a>"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:173
+msgid "Related Portfolios"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:182
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:183
+msgid "Show Related Portfolios"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:193
+msgid "Related Portfolios Icon"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:201
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:202
+msgid "Columns Grid"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:206
+#: lotek/vc_extend/vc_shortcodes.php:895
+msgid "1 Column"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:207
+#: lotek/vc_extend/vc_shortcodes.php:896
+msgid "2 Columns"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:208
+#: lotek/vc_extend/vc_shortcodes.php:897
+msgid "3 Columns"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:209
+#: lotek/vc_extend/vc_shortcodes.php:898
+msgid "4 Columns"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:210
+#: lotek/vc_extend/vc_shortcodes.php:899
+msgid "5 Columns"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:211
+#: lotek/vc_extend/vc_shortcodes.php:900
+msgid "6 Columns"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:217
+msgid "Related Items"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:218
+msgid "Number of items show in related items section"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:327
+#: lotek/inc/cth_for_vc.php:136 lotek/inc/cth_for_vc.php:139
+msgid "Slideshow Speed"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:374
+msgid "User Profile Metabox"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:380
+msgid "Extra Info"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:381
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:388
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:395
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:401
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:407
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:413
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:419
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:437
+msgid "field description (optional)"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:387
+msgid "Avatar"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:394
+msgid "Facebook URL"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:400
+msgid "Twitter URL"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:406
+msgid "Google+ URL"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:412
+msgid "Linkedin URL"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:418
+msgid "User Field"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:432
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/metabox-functions.php:436
+msgid "Site Background Color"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/helpers/cmb_Meta_Box_field.php:459
+msgid "Add Group"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/helpers/cmb_Meta_Box_field.php:460
+msgid "Remove Group"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:250
+msgid "Add Row"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:306
+#: lotek/framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:706
+#: lotek/framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:768
+msgid "Remove"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:601
+#: lotek/framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:635
+msgid "No terms"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:674
+#: lotek/framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:728
+msgid "Add or Upload File"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:695
+#: lotek/framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:760
+msgid "Remove Image"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:706
+#: lotek/framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:768
+msgid "File:"
+msgstr ""
+
+#: lotek/framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:706
+#: lotek/framework/Custom-Metaboxes/helpers/cmb_Meta_Box_types.php:768
+msgid "Download"
+msgstr ""
+
+#: lotek/functions/admin-config.php:77 lotek/functions/admin-config.php:78
+msgid "Lotek Options"
+msgstr ""
+
+#: lotek/functions/admin-config.php:178 lotek/functions/admin-config.php:1046
+msgid "Documentation"
+msgstr ""
+
+#: lotek/functions/admin-config.php:184
+msgid "Support"
+msgstr ""
+
+#: lotek/functions/admin-config.php:190
+msgid "Extensions"
+msgstr ""
+
+#: lotek/functions/admin-config.php:196
+msgid "Visit us on GitHub"
+msgstr ""
+
+#: lotek/functions/admin-config.php:202
+msgid "Like us on Facebook"
+msgstr ""
+
+#: lotek/functions/admin-config.php:207
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: lotek/functions/admin-config.php:212
+msgid "Find us on LinkedIn"
+msgstr ""
+
+#: lotek/functions/admin-config.php:223 lotek/functions/admin-config.php:225
+msgid "<p></p>"
+msgstr ""
+
+#: lotek/functions/admin-config.php:229
+msgid ""
+"<p>Thanks all of you who stay with us, your co-operation is our inspiration. "
+"<a href=\""
+msgstr ""
+
+#: lotek/functions/admin-config.php:245
+msgid "Theme Information 1"
+msgstr ""
+
+#: lotek/functions/admin-config.php:246 lotek/functions/admin-config.php:251
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: lotek/functions/admin-config.php:250
+msgid "Theme Information 2"
+msgstr ""
+
+#: lotek/functions/admin-config.php:257
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: lotek/functions/admin-config.php:281
+msgid "Import Demo Data"
+msgstr ""
+
+#: lotek/functions/admin-config.php:290
+msgid "Click button to import demo data"
+msgstr ""
+
+#: lotek/functions/admin-config.php:299
+msgid "General"
+msgstr ""
+
+#: lotek/functions/admin-config.php:309
+msgid "Custom Favicon"
+msgstr ""
+
+#: lotek/functions/admin-config.php:312
+msgid "Upload your Favicon."
+msgstr ""
+
+#: lotek/functions/admin-config.php:320
+msgid "Logo"
+msgstr ""
+
+#: lotek/functions/admin-config.php:323
+msgid "Upload your logo."
+msgstr ""
+
+#: lotek/functions/admin-config.php:331
+msgid "Logo Size Width"
+msgstr ""
+
+#: lotek/functions/admin-config.php:339
+msgid "Logo Size Height"
+msgstr ""
+
+#: lotek/functions/admin-config.php:347
+msgid "Logo Text"
+msgstr ""
+
+#: lotek/functions/admin-config.php:355
+msgid "Slogan (Sub Logo Text)"
+msgstr ""
+
+#: lotek/functions/admin-config.php:363
+msgid "Disable Animation"
+msgstr ""
+
+#: lotek/functions/admin-config.php:372
+msgid "Disable Animation on Mobile"
+msgstr ""
+
+#: lotek/functions/admin-config.php:383
+msgid "Footer"
+msgstr ""
+
+#: lotek/functions/admin-config.php:393
+msgid "To Top ID"
+msgstr ""
+
+#: lotek/functions/admin-config.php:395
+msgid "Section ID will scroll to when click to To Top icon"
+msgstr ""
+
+#: lotek/functions/admin-config.php:403
+msgid "Footer Social Links"
+msgstr ""
+
+#: lotek/functions/admin-config.php:419
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: lotek/functions/admin-config.php:429
+msgid "Color"
+msgstr ""
+
+#: lotek/functions/admin-config.php:438
+msgid "Theme Color"
+msgstr ""
+
+#: lotek/functions/admin-config.php:439 lotek/functions/admin-config.php:440
+msgid "Select your theme color"
+msgstr ""
+
+#: lotek/functions/admin-config.php:530
+msgid "Use Your Own"
+msgstr ""
+
+#: lotek/functions/admin-config.php:531
+msgid ""
+"Set this to <b>Yes</b> if you want to use colors and divider image "
+"background bellow."
+msgstr ""
+
+#: lotek/functions/admin-config.php:543
+msgid "Theme Background Color"
+msgstr ""
+
+#: lotek/functions/admin-config.php:544
+msgid "Pick the background color for the theme (default: #fe5d55)."
+msgstr ""
+
+#: lotek/functions/admin-config.php:551
+msgid "Theme Dark Background Color"
+msgstr ""
+
+#: lotek/functions/admin-config.php:552
+msgid "Pick the dark background color for the theme (default: #363F48)."
+msgstr ""
+
+#: lotek/functions/admin-config.php:559
+msgid "Theme Border Color"
+msgstr ""
+
+#: lotek/functions/admin-config.php:560
+msgid "Pick the border color for the theme (default: #fe5d55)."
+msgstr ""
+
+#: lotek/functions/admin-config.php:568
+msgid "Navigation Background Color"
+msgstr ""
+
+#: lotek/functions/admin-config.php:569
+msgid "Pick the navigation background color for the theme (default: #ffffff)."
+msgstr ""
+
+#: lotek/functions/admin-config.php:576
+msgid "Footer Background Color"
+msgstr ""
+
+#: lotek/functions/admin-config.php:577
+msgid "Footer background color (default: #363F48)."
+msgstr ""
+
+#: lotek/functions/admin-config.php:584
+msgid "Footer Copyright Background Color"
+msgstr ""
+
+#: lotek/functions/admin-config.php:585
+msgid "Footer copyright background color (default: #252C33)."
+msgstr ""
+
+#: lotek/functions/admin-config.php:593
+msgid "Theme Text Color"
+msgstr ""
+
+#: lotek/functions/admin-config.php:594
+msgid "Pick the text color for the theme (default: #fe5d55)."
+msgstr ""
+
+#: lotek/functions/admin-config.php:601
+msgid "Main Text Color"
+msgstr ""
+
+#: lotek/functions/admin-config.php:602
+msgid "Pick the main text color for the theme (default: #2C323A)."
+msgstr ""
+
+#: lotek/functions/admin-config.php:609
+msgid "Section Title Color"
+msgstr ""
+
+#: lotek/functions/admin-config.php:610
+msgid "Pick section title color for the theme (default: #2d3c3f)."
+msgstr ""
+
+#: lotek/functions/admin-config.php:617
+msgid "Menu Color"
+msgstr ""
+
+#: lotek/functions/admin-config.php:618
+msgid "Pick the menu text color for the theme (default: #263740)."
+msgstr ""
+
+#: lotek/functions/admin-config.php:625
+msgid "Active Menu Color"
+msgstr ""
+
+#: lotek/functions/admin-config.php:626
+msgid "Pick active menu text color for the theme (default: #fe5d55)."
+msgstr ""
+
+#: lotek/functions/admin-config.php:636
+msgid "Upload your divider background"
+msgstr ""
+
+#: lotek/functions/admin-config.php:645
+msgid "Upload your dark divider background"
+msgstr ""
+
+#: lotek/functions/admin-config.php:655
+msgid "Typography"
+msgstr ""
+
+#: lotek/functions/admin-config.php:666
+msgid "Body Font"
+msgstr ""
+
+#: lotek/functions/admin-config.php:667
+msgid ""
+"Specify the body font properties.\n"
+"                    Default - <br>font-family: Open Sans <br>font-size: 14px "
+"<br>line-height: 24px <br>font-weight: 400 <br>color: #2C323A"
+msgstr ""
+
+#: lotek/functions/admin-config.php:675
+msgid "Hyperlink Font"
+msgstr ""
+
+#: lotek/functions/admin-config.php:676
+msgid ""
+"Hyperlink font properties. Default - <br>font-family: Open Sans <br>font-"
+"size: 14px <br>line-height: 24px <br>font-weight: 400 </br>color: #FE5D55"
+msgstr ""
+
+#: lotek/functions/admin-config.php:683
+msgid "Hyperlink Hover Font"
+msgstr ""
+
+#: lotek/functions/admin-config.php:684
+msgid ""
+"Hyperlink hover font properties. Default - <br>font-family: Open Sans "
+"<br>font-size: 14px <br>line-height: 24px <br>font-weight: 400  </br>color: "
+"#FE5D55"
+msgstr ""
+
+#: lotek/functions/admin-config.php:691
+msgid "Paragraph Font"
+msgstr ""
+
+#: lotek/functions/admin-config.php:692
+msgid ""
+"Specify paragraph font properties. Default - <br>font-family: Open Sans "
+"<br>font-size: 14px <br>line-height: 24px <br>font-weight: 400 <br>color: "
+"#2C323A"
+msgstr ""
+
+#: lotek/functions/admin-config.php:700
+msgid "Title-Header Font"
+msgstr ""
+
+#: lotek/functions/admin-config.php:701
+msgid ""
+"Specify the title and heading font properties. Default - <br>font-family: "
+"Open Sans <br>font-weight: 500"
+msgstr ""
+
+#: lotek/functions/admin-config.php:709
+msgid "Navigation Font"
+msgstr ""
+
+#: lotek/functions/admin-config.php:710
+msgid ""
+"Theme navigation font. Default - <br>font-family: Open Sans <br>font-size: "
+"14px <br>line-height: 14px <br>font-weight: 700 <br>color: #263740"
+msgstr ""
+
+#: lotek/functions/admin-config.php:719
+msgid "Portfolio"
+msgstr ""
+
+#: lotek/functions/admin-config.php:728 lotek/functions/admin-config.php:892
+msgid "Show Title meta"
+msgstr ""
+
+#: lotek/functions/admin-config.php:735 lotek/functions/admin-config.php:899
+msgid "Show Author meta"
+msgstr ""
+
+#: lotek/functions/admin-config.php:742 lotek/functions/admin-config.php:907
+msgid "Show Date meta"
+msgstr ""
+
+#: lotek/functions/admin-config.php:749 lotek/functions/admin-config.php:914
+msgid "Show Categories meta"
+msgstr ""
+
+#: lotek/functions/admin-config.php:756 lotek/functions/admin-config.php:929
+msgid "Show Comments meta"
+msgstr ""
+
+#: lotek/functions/admin-config.php:766
+msgid "Portfolio Introduction Text "
+msgstr ""
+
+#: lotek/functions/admin-config.php:776 lotek/functions/admin-config.php:778
+msgid "Archive Pages icon"
+msgstr ""
+
+#: lotek/functions/admin-config.php:786 lotek/functions/admin-config.php:860
+msgid "Enable Fullwidth"
+msgstr ""
+
+#: lotek/functions/admin-config.php:796
+msgid "Portfolio Columns"
+msgstr ""
+
+#: lotek/functions/admin-config.php:806
+msgid "Posts per page"
+msgstr ""
+
+#: lotek/functions/admin-config.php:807
+msgid "Number of post to show per page, -1 to show all posts."
+msgstr ""
+
+#: lotek/functions/admin-config.php:815
+msgid "Blog"
+msgstr ""
+
+#: lotek/functions/admin-config.php:826
+msgid "Blog Heading Text"
+msgstr ""
+
+#: lotek/functions/admin-config.php:834
+msgid "Blog Introduction Text "
+msgstr ""
+
+#: lotek/functions/admin-config.php:843
+msgid "Blog page icon "
+msgstr ""
+
+#: lotek/functions/admin-config.php:844
+msgid ""
+"Awesome icon name that show in blog page top position, leave it blank to "
+"remove."
+msgstr ""
+
+#: lotek/functions/admin-config.php:852 lotek/functions/admin-config.php:853
+msgid "Blog Wrapper Classes"
+msgstr ""
+
+#: lotek/functions/admin-config.php:869
+msgid "Blog Sidebar Layout"
+msgstr ""
+
+#: lotek/functions/admin-config.php:870 lotek/functions/admin-config.php:947
+msgid "Select main content and sidebar layout."
+msgstr ""
+
+#: lotek/functions/admin-config.php:921
+msgid "Show Tags meta"
+msgstr ""
+
+#: lotek/functions/admin-config.php:937
+msgid "Blog custom excerpt length"
+msgstr ""
+
+#: lotek/functions/admin-config.php:938
+msgid "The number of words you wish to display in the excerpt"
+msgstr ""
+
+#: lotek/functions/admin-config.php:946
+msgid "Blog Single Sidebar"
+msgstr ""
+
+#: lotek/functions/admin-config.php:968
+msgid "Show Author Block on single post page"
+msgstr ""
+
+#: lotek/functions/admin-config.php:975
+msgid "Show Tags meta on single post page"
+msgstr ""
+
+#: lotek/functions/admin-config.php:982
+msgid "Show Related posts in single post page."
+msgstr ""
+
+#: lotek/functions/admin-config.php:993
+msgid "404 Page"
+msgstr ""
+
+#: lotek/functions/admin-config.php:1002
+msgid "404 Page Message"
+msgstr ""
+
+#: lotek/functions/admin-config.php:1012
+msgid "Back Home Link"
+msgstr ""
+
+#: lotek/functions/admin-config.php:1021
+msgid "Custom Code"
+msgstr ""
+
+#: lotek/functions/admin-config.php:1030
+msgid "CSS Code"
+msgstr ""
+
+#: lotek/functions/admin-config.php:1031
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: lotek/functions/admin-config.php:1183
+msgid "Section via hook"
+msgstr ""
+
+#: lotek/functions/admin-config.php:1184
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:67
+msgid "Section Title"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:70
+msgid "Title of Section "
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:75
+msgid "Section icon"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:91
+msgid "Section Layout"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:95
+msgid "Home Slideshow with Navigation"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:96
+msgid "Color Background Section"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:97
+msgid "Dark Background Section"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:98
+msgid "Features Section"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:102
+msgid "Intro Section"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:104
+msgid "Testimonials Section"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:105
+msgid "Products Section"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:106
+msgid "Team Section"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:107
+msgid "Blog Section"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:108
+msgid "Pricing Section"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:109
+msgid "Contact Section"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:110
+msgid "Component Section"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:111
+msgid "General Section"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:112
+msgid "General Fullwidth Section"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:114
+msgid "Select one of the pre made page sections or using default"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:121
+msgid "Slideshow Background Image"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:163 lotek/vc_extend/vc_shortcodes.php:150
+#: lotek/vc_extend/vc_shortcodes.php:357 lotek/vc_extend/vc_shortcodes.php:516
+#: lotek/vc_extend/vc_shortcodes.php:926
+#: lotek/vc_extend/vc_shortcodes.php:1305
+#: lotek/vc_extend/vc_shortcodes.php:1690
+#: lotek/vc_extend/vc_shortcodes.php:1842
+msgid "Use Animation"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:169 lotek/vc_extend/vc_shortcodes.php:156
+#: lotek/vc_extend/vc_shortcodes.php:363 lotek/vc_extend/vc_shortcodes.php:522
+#: lotek/vc_extend/vc_shortcodes.php:932
+#: lotek/vc_extend/vc_shortcodes.php:1311
+#: lotek/vc_extend/vc_shortcodes.php:1696
+#: lotek/vc_extend/vc_shortcodes.php:1848
+msgid "Use animation effect or not"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:175 lotek/vc_extend/vc_shortcodes.php:162
+#: lotek/vc_extend/vc_shortcodes.php:369 lotek/vc_extend/vc_shortcodes.php:528
+#: lotek/vc_extend/vc_shortcodes.php:938
+#: lotek/vc_extend/vc_shortcodes.php:1317
+#: lotek/vc_extend/vc_shortcodes.php:1702
+#: lotek/vc_extend/vc_shortcodes.php:1854
+msgid "Data effect"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:178 lotek/vc_extend/vc_shortcodes.php:165
+#: lotek/vc_extend/vc_shortcodes.php:372 lotek/vc_extend/vc_shortcodes.php:531
+#: lotek/vc_extend/vc_shortcodes.php:941
+#: lotek/vc_extend/vc_shortcodes.php:1320
+#: lotek/vc_extend/vc_shortcodes.php:1705
+#: lotek/vc_extend/vc_shortcodes.php:1857
+msgid "bounce"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:179 lotek/vc_extend/vc_shortcodes.php:166
+#: lotek/vc_extend/vc_shortcodes.php:373 lotek/vc_extend/vc_shortcodes.php:532
+#: lotek/vc_extend/vc_shortcodes.php:942
+#: lotek/vc_extend/vc_shortcodes.php:1321
+#: lotek/vc_extend/vc_shortcodes.php:1706
+#: lotek/vc_extend/vc_shortcodes.php:1858
+msgid "flash"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:180 lotek/vc_extend/vc_shortcodes.php:167
+#: lotek/vc_extend/vc_shortcodes.php:374 lotek/vc_extend/vc_shortcodes.php:533
+#: lotek/vc_extend/vc_shortcodes.php:943
+#: lotek/vc_extend/vc_shortcodes.php:1322
+#: lotek/vc_extend/vc_shortcodes.php:1707
+#: lotek/vc_extend/vc_shortcodes.php:1859
+msgid "pulse"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:181 lotek/vc_extend/vc_shortcodes.php:168
+#: lotek/vc_extend/vc_shortcodes.php:375 lotek/vc_extend/vc_shortcodes.php:534
+#: lotek/vc_extend/vc_shortcodes.php:944
+#: lotek/vc_extend/vc_shortcodes.php:1323
+#: lotek/vc_extend/vc_shortcodes.php:1708
+#: lotek/vc_extend/vc_shortcodes.php:1860
+msgid "rubberBand"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:182 lotek/vc_extend/vc_shortcodes.php:169
+#: lotek/vc_extend/vc_shortcodes.php:376 lotek/vc_extend/vc_shortcodes.php:535
+#: lotek/vc_extend/vc_shortcodes.php:945
+#: lotek/vc_extend/vc_shortcodes.php:1324
+#: lotek/vc_extend/vc_shortcodes.php:1709
+#: lotek/vc_extend/vc_shortcodes.php:1861
+msgid "shake"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:183 lotek/vc_extend/vc_shortcodes.php:170
+#: lotek/vc_extend/vc_shortcodes.php:377 lotek/vc_extend/vc_shortcodes.php:536
+#: lotek/vc_extend/vc_shortcodes.php:946
+#: lotek/vc_extend/vc_shortcodes.php:1325
+#: lotek/vc_extend/vc_shortcodes.php:1710
+#: lotek/vc_extend/vc_shortcodes.php:1862
+msgid "swing"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:184 lotek/vc_extend/vc_shortcodes.php:171
+#: lotek/vc_extend/vc_shortcodes.php:378 lotek/vc_extend/vc_shortcodes.php:537
+#: lotek/vc_extend/vc_shortcodes.php:947
+#: lotek/vc_extend/vc_shortcodes.php:1326
+#: lotek/vc_extend/vc_shortcodes.php:1711
+#: lotek/vc_extend/vc_shortcodes.php:1863
+msgid "tada"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:185 lotek/vc_extend/vc_shortcodes.php:172
+#: lotek/vc_extend/vc_shortcodes.php:379 lotek/vc_extend/vc_shortcodes.php:538
+#: lotek/vc_extend/vc_shortcodes.php:948
+#: lotek/vc_extend/vc_shortcodes.php:1327
+#: lotek/vc_extend/vc_shortcodes.php:1712
+#: lotek/vc_extend/vc_shortcodes.php:1864
+msgid "wobble"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:187 lotek/vc_extend/vc_shortcodes.php:173
+#: lotek/vc_extend/vc_shortcodes.php:380 lotek/vc_extend/vc_shortcodes.php:539
+#: lotek/vc_extend/vc_shortcodes.php:949
+#: lotek/vc_extend/vc_shortcodes.php:1328
+#: lotek/vc_extend/vc_shortcodes.php:1713
+#: lotek/vc_extend/vc_shortcodes.php:1865
+msgid "bounceIn"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:188 lotek/vc_extend/vc_shortcodes.php:174
+#: lotek/vc_extend/vc_shortcodes.php:381 lotek/vc_extend/vc_shortcodes.php:540
+#: lotek/vc_extend/vc_shortcodes.php:950
+#: lotek/vc_extend/vc_shortcodes.php:1329
+#: lotek/vc_extend/vc_shortcodes.php:1714
+#: lotek/vc_extend/vc_shortcodes.php:1866
+msgid "bounceInUp"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:189 lotek/vc_extend/vc_shortcodes.php:175
+#: lotek/vc_extend/vc_shortcodes.php:382 lotek/vc_extend/vc_shortcodes.php:541
+#: lotek/vc_extend/vc_shortcodes.php:951
+#: lotek/vc_extend/vc_shortcodes.php:1330
+#: lotek/vc_extend/vc_shortcodes.php:1715
+#: lotek/vc_extend/vc_shortcodes.php:1867
+msgid "bounceInDown"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:190 lotek/vc_extend/vc_shortcodes.php:176
+#: lotek/vc_extend/vc_shortcodes.php:383 lotek/vc_extend/vc_shortcodes.php:542
+#: lotek/vc_extend/vc_shortcodes.php:952
+#: lotek/vc_extend/vc_shortcodes.php:1331
+#: lotek/vc_extend/vc_shortcodes.php:1716
+#: lotek/vc_extend/vc_shortcodes.php:1868
+msgid "bounceInLeft"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:191 lotek/vc_extend/vc_shortcodes.php:177
+#: lotek/vc_extend/vc_shortcodes.php:384 lotek/vc_extend/vc_shortcodes.php:543
+#: lotek/vc_extend/vc_shortcodes.php:953
+#: lotek/vc_extend/vc_shortcodes.php:1332
+#: lotek/vc_extend/vc_shortcodes.php:1717
+#: lotek/vc_extend/vc_shortcodes.php:1869
+msgid "bounceInRight"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:192 lotek/vc_extend/vc_shortcodes.php:178
+#: lotek/vc_extend/vc_shortcodes.php:385 lotek/vc_extend/vc_shortcodes.php:544
+#: lotek/vc_extend/vc_shortcodes.php:954
+#: lotek/vc_extend/vc_shortcodes.php:1333
+#: lotek/vc_extend/vc_shortcodes.php:1718
+#: lotek/vc_extend/vc_shortcodes.php:1870
+msgid "bounceOut"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:193 lotek/vc_extend/vc_shortcodes.php:179
+#: lotek/vc_extend/vc_shortcodes.php:386 lotek/vc_extend/vc_shortcodes.php:545
+#: lotek/vc_extend/vc_shortcodes.php:955
+#: lotek/vc_extend/vc_shortcodes.php:1334
+#: lotek/vc_extend/vc_shortcodes.php:1719
+#: lotek/vc_extend/vc_shortcodes.php:1871
+msgid "bounceOutUp"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:194 lotek/vc_extend/vc_shortcodes.php:180
+#: lotek/vc_extend/vc_shortcodes.php:387 lotek/vc_extend/vc_shortcodes.php:546
+#: lotek/vc_extend/vc_shortcodes.php:956
+#: lotek/vc_extend/vc_shortcodes.php:1335
+#: lotek/vc_extend/vc_shortcodes.php:1720
+#: lotek/vc_extend/vc_shortcodes.php:1872
+msgid "bounceOutDown"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:195 lotek/vc_extend/vc_shortcodes.php:181
+#: lotek/vc_extend/vc_shortcodes.php:388 lotek/vc_extend/vc_shortcodes.php:547
+#: lotek/vc_extend/vc_shortcodes.php:957
+#: lotek/vc_extend/vc_shortcodes.php:1336
+#: lotek/vc_extend/vc_shortcodes.php:1721
+#: lotek/vc_extend/vc_shortcodes.php:1873
+msgid "bounceOutLeft"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:196 lotek/vc_extend/vc_shortcodes.php:182
+#: lotek/vc_extend/vc_shortcodes.php:389 lotek/vc_extend/vc_shortcodes.php:548
+#: lotek/vc_extend/vc_shortcodes.php:958
+#: lotek/vc_extend/vc_shortcodes.php:1337
+#: lotek/vc_extend/vc_shortcodes.php:1722
+#: lotek/vc_extend/vc_shortcodes.php:1874
+msgid "bounceOutRight"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:198 lotek/vc_extend/vc_shortcodes.php:183
+#: lotek/vc_extend/vc_shortcodes.php:390 lotek/vc_extend/vc_shortcodes.php:549
+#: lotek/vc_extend/vc_shortcodes.php:959
+#: lotek/vc_extend/vc_shortcodes.php:1338
+#: lotek/vc_extend/vc_shortcodes.php:1723
+#: lotek/vc_extend/vc_shortcodes.php:1875
+msgid "fadeIn"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:199 lotek/vc_extend/vc_shortcodes.php:184
+#: lotek/vc_extend/vc_shortcodes.php:391 lotek/vc_extend/vc_shortcodes.php:550
+#: lotek/vc_extend/vc_shortcodes.php:960
+#: lotek/vc_extend/vc_shortcodes.php:1339
+#: lotek/vc_extend/vc_shortcodes.php:1724
+#: lotek/vc_extend/vc_shortcodes.php:1876
+msgid "fadeInUp"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:200 lotek/vc_extend/vc_shortcodes.php:185
+#: lotek/vc_extend/vc_shortcodes.php:392 lotek/vc_extend/vc_shortcodes.php:551
+#: lotek/vc_extend/vc_shortcodes.php:961
+#: lotek/vc_extend/vc_shortcodes.php:1340
+#: lotek/vc_extend/vc_shortcodes.php:1725
+#: lotek/vc_extend/vc_shortcodes.php:1877
+msgid "fadeInDown"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:201 lotek/vc_extend/vc_shortcodes.php:186
+#: lotek/vc_extend/vc_shortcodes.php:393 lotek/vc_extend/vc_shortcodes.php:552
+#: lotek/vc_extend/vc_shortcodes.php:962
+#: lotek/vc_extend/vc_shortcodes.php:1341
+#: lotek/vc_extend/vc_shortcodes.php:1726
+#: lotek/vc_extend/vc_shortcodes.php:1878
+msgid "fadeInLeft"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:202 lotek/vc_extend/vc_shortcodes.php:187
+#: lotek/vc_extend/vc_shortcodes.php:394 lotek/vc_extend/vc_shortcodes.php:553
+#: lotek/vc_extend/vc_shortcodes.php:963
+#: lotek/vc_extend/vc_shortcodes.php:1342
+#: lotek/vc_extend/vc_shortcodes.php:1727
+#: lotek/vc_extend/vc_shortcodes.php:1879
+msgid "fadeInRight"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:203 lotek/vc_extend/vc_shortcodes.php:188
+#: lotek/vc_extend/vc_shortcodes.php:395 lotek/vc_extend/vc_shortcodes.php:554
+#: lotek/vc_extend/vc_shortcodes.php:964
+#: lotek/vc_extend/vc_shortcodes.php:1343
+#: lotek/vc_extend/vc_shortcodes.php:1728
+#: lotek/vc_extend/vc_shortcodes.php:1880
+msgid "fadeInUpBig"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:204 lotek/vc_extend/vc_shortcodes.php:189
+#: lotek/vc_extend/vc_shortcodes.php:396 lotek/vc_extend/vc_shortcodes.php:555
+#: lotek/vc_extend/vc_shortcodes.php:965
+#: lotek/vc_extend/vc_shortcodes.php:1344
+#: lotek/vc_extend/vc_shortcodes.php:1729
+#: lotek/vc_extend/vc_shortcodes.php:1881
+msgid "fadeInDownBig"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:205 lotek/vc_extend/vc_shortcodes.php:190
+#: lotek/vc_extend/vc_shortcodes.php:397 lotek/vc_extend/vc_shortcodes.php:556
+#: lotek/vc_extend/vc_shortcodes.php:966
+#: lotek/vc_extend/vc_shortcodes.php:1345
+#: lotek/vc_extend/vc_shortcodes.php:1730
+#: lotek/vc_extend/vc_shortcodes.php:1882
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:206 lotek/vc_extend/vc_shortcodes.php:191
+#: lotek/vc_extend/vc_shortcodes.php:398 lotek/vc_extend/vc_shortcodes.php:557
+#: lotek/vc_extend/vc_shortcodes.php:967
+#: lotek/vc_extend/vc_shortcodes.php:1346
+#: lotek/vc_extend/vc_shortcodes.php:1731
+#: lotek/vc_extend/vc_shortcodes.php:1883
+msgid "fadeInRightBig"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:208 lotek/vc_extend/vc_shortcodes.php:192
+#: lotek/vc_extend/vc_shortcodes.php:399 lotek/vc_extend/vc_shortcodes.php:558
+#: lotek/vc_extend/vc_shortcodes.php:968
+#: lotek/vc_extend/vc_shortcodes.php:1347
+#: lotek/vc_extend/vc_shortcodes.php:1732
+#: lotek/vc_extend/vc_shortcodes.php:1884
+msgid "fadeOut"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:209 lotek/vc_extend/vc_shortcodes.php:193
+#: lotek/vc_extend/vc_shortcodes.php:400 lotek/vc_extend/vc_shortcodes.php:559
+#: lotek/vc_extend/vc_shortcodes.php:969
+#: lotek/vc_extend/vc_shortcodes.php:1348
+#: lotek/vc_extend/vc_shortcodes.php:1733
+#: lotek/vc_extend/vc_shortcodes.php:1885
+msgid "fadeOutUp"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:210 lotek/vc_extend/vc_shortcodes.php:194
+#: lotek/vc_extend/vc_shortcodes.php:401 lotek/vc_extend/vc_shortcodes.php:560
+#: lotek/vc_extend/vc_shortcodes.php:970
+#: lotek/vc_extend/vc_shortcodes.php:1349
+#: lotek/vc_extend/vc_shortcodes.php:1734
+#: lotek/vc_extend/vc_shortcodes.php:1886
+msgid "fadeOutDown"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:211 lotek/vc_extend/vc_shortcodes.php:195
+#: lotek/vc_extend/vc_shortcodes.php:402 lotek/vc_extend/vc_shortcodes.php:561
+#: lotek/vc_extend/vc_shortcodes.php:971
+#: lotek/vc_extend/vc_shortcodes.php:1350
+#: lotek/vc_extend/vc_shortcodes.php:1735
+#: lotek/vc_extend/vc_shortcodes.php:1887
+msgid "fadeOutLeft"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:212 lotek/vc_extend/vc_shortcodes.php:196
+#: lotek/vc_extend/vc_shortcodes.php:403 lotek/vc_extend/vc_shortcodes.php:562
+#: lotek/vc_extend/vc_shortcodes.php:972
+#: lotek/vc_extend/vc_shortcodes.php:1351
+#: lotek/vc_extend/vc_shortcodes.php:1736
+#: lotek/vc_extend/vc_shortcodes.php:1888
+msgid "fadeOutRight"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:213 lotek/vc_extend/vc_shortcodes.php:197
+#: lotek/vc_extend/vc_shortcodes.php:404 lotek/vc_extend/vc_shortcodes.php:563
+#: lotek/vc_extend/vc_shortcodes.php:973
+#: lotek/vc_extend/vc_shortcodes.php:1352
+#: lotek/vc_extend/vc_shortcodes.php:1737
+#: lotek/vc_extend/vc_shortcodes.php:1889
+msgid "fadeOutUpBig"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:214 lotek/vc_extend/vc_shortcodes.php:198
+#: lotek/vc_extend/vc_shortcodes.php:405 lotek/vc_extend/vc_shortcodes.php:564
+#: lotek/vc_extend/vc_shortcodes.php:974
+#: lotek/vc_extend/vc_shortcodes.php:1353
+#: lotek/vc_extend/vc_shortcodes.php:1738
+#: lotek/vc_extend/vc_shortcodes.php:1890
+msgid "fadeOutDownBig"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:215 lotek/vc_extend/vc_shortcodes.php:199
+#: lotek/vc_extend/vc_shortcodes.php:406 lotek/vc_extend/vc_shortcodes.php:565
+#: lotek/vc_extend/vc_shortcodes.php:975
+#: lotek/vc_extend/vc_shortcodes.php:1354
+#: lotek/vc_extend/vc_shortcodes.php:1739
+#: lotek/vc_extend/vc_shortcodes.php:1891
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:216 lotek/vc_extend/vc_shortcodes.php:200
+#: lotek/vc_extend/vc_shortcodes.php:407 lotek/vc_extend/vc_shortcodes.php:566
+#: lotek/vc_extend/vc_shortcodes.php:976
+#: lotek/vc_extend/vc_shortcodes.php:1355
+#: lotek/vc_extend/vc_shortcodes.php:1740
+#: lotek/vc_extend/vc_shortcodes.php:1892
+msgid "fadeOutRightBig"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:218 lotek/vc_extend/vc_shortcodes.php:201
+#: lotek/vc_extend/vc_shortcodes.php:408 lotek/vc_extend/vc_shortcodes.php:567
+#: lotek/vc_extend/vc_shortcodes.php:977
+#: lotek/vc_extend/vc_shortcodes.php:1356
+#: lotek/vc_extend/vc_shortcodes.php:1741
+#: lotek/vc_extend/vc_shortcodes.php:1893
+msgid "flipInX"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:219 lotek/vc_extend/vc_shortcodes.php:202
+#: lotek/vc_extend/vc_shortcodes.php:409 lotek/vc_extend/vc_shortcodes.php:568
+#: lotek/vc_extend/vc_shortcodes.php:978
+#: lotek/vc_extend/vc_shortcodes.php:1357
+#: lotek/vc_extend/vc_shortcodes.php:1742
+#: lotek/vc_extend/vc_shortcodes.php:1894
+msgid "flipInY"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:220 lotek/vc_extend/vc_shortcodes.php:203
+#: lotek/vc_extend/vc_shortcodes.php:410 lotek/vc_extend/vc_shortcodes.php:569
+#: lotek/vc_extend/vc_shortcodes.php:979
+#: lotek/vc_extend/vc_shortcodes.php:1358
+#: lotek/vc_extend/vc_shortcodes.php:1743
+#: lotek/vc_extend/vc_shortcodes.php:1895
+msgid "flipOutX"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:221 lotek/vc_extend/vc_shortcodes.php:204
+#: lotek/vc_extend/vc_shortcodes.php:411 lotek/vc_extend/vc_shortcodes.php:570
+#: lotek/vc_extend/vc_shortcodes.php:980
+#: lotek/vc_extend/vc_shortcodes.php:1359
+#: lotek/vc_extend/vc_shortcodes.php:1744
+#: lotek/vc_extend/vc_shortcodes.php:1896
+msgid "flipOutY"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:222 lotek/vc_extend/vc_shortcodes.php:205
+#: lotek/vc_extend/vc_shortcodes.php:412 lotek/vc_extend/vc_shortcodes.php:571
+#: lotek/vc_extend/vc_shortcodes.php:981
+#: lotek/vc_extend/vc_shortcodes.php:1360
+#: lotek/vc_extend/vc_shortcodes.php:1745
+#: lotek/vc_extend/vc_shortcodes.php:1897
+msgid "rotateIn"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:223 lotek/vc_extend/vc_shortcodes.php:206
+#: lotek/vc_extend/vc_shortcodes.php:413 lotek/vc_extend/vc_shortcodes.php:572
+#: lotek/vc_extend/vc_shortcodes.php:982
+#: lotek/vc_extend/vc_shortcodes.php:1361
+#: lotek/vc_extend/vc_shortcodes.php:1746
+#: lotek/vc_extend/vc_shortcodes.php:1898
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:224 lotek/vc_extend/vc_shortcodes.php:207
+#: lotek/vc_extend/vc_shortcodes.php:414 lotek/vc_extend/vc_shortcodes.php:573
+#: lotek/vc_extend/vc_shortcodes.php:983
+#: lotek/vc_extend/vc_shortcodes.php:1362
+#: lotek/vc_extend/vc_shortcodes.php:1747
+#: lotek/vc_extend/vc_shortcodes.php:1899
+msgid "rotateInDownRight"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:225 lotek/vc_extend/vc_shortcodes.php:208
+#: lotek/vc_extend/vc_shortcodes.php:415 lotek/vc_extend/vc_shortcodes.php:574
+#: lotek/vc_extend/vc_shortcodes.php:984
+#: lotek/vc_extend/vc_shortcodes.php:1363
+#: lotek/vc_extend/vc_shortcodes.php:1748
+#: lotek/vc_extend/vc_shortcodes.php:1900
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:226 lotek/vc_extend/vc_shortcodes.php:209
+#: lotek/vc_extend/vc_shortcodes.php:416 lotek/vc_extend/vc_shortcodes.php:575
+#: lotek/vc_extend/vc_shortcodes.php:985
+#: lotek/vc_extend/vc_shortcodes.php:1364
+#: lotek/vc_extend/vc_shortcodes.php:1749
+#: lotek/vc_extend/vc_shortcodes.php:1901
+msgid "rotateInUpRight"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:228 lotek/inc/cth_for_vc.php:234
+#: lotek/vc_extend/vc_shortcodes.php:210 lotek/vc_extend/vc_shortcodes.php:215
+#: lotek/vc_extend/vc_shortcodes.php:417 lotek/vc_extend/vc_shortcodes.php:422
+#: lotek/vc_extend/vc_shortcodes.php:576 lotek/vc_extend/vc_shortcodes.php:581
+#: lotek/vc_extend/vc_shortcodes.php:986 lotek/vc_extend/vc_shortcodes.php:991
+#: lotek/vc_extend/vc_shortcodes.php:1365
+#: lotek/vc_extend/vc_shortcodes.php:1370
+#: lotek/vc_extend/vc_shortcodes.php:1750
+#: lotek/vc_extend/vc_shortcodes.php:1755
+#: lotek/vc_extend/vc_shortcodes.php:1902
+#: lotek/vc_extend/vc_shortcodes.php:1907
+msgid "rotateOut"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:229 lotek/inc/cth_for_vc.php:235
+#: lotek/vc_extend/vc_shortcodes.php:211 lotek/vc_extend/vc_shortcodes.php:216
+#: lotek/vc_extend/vc_shortcodes.php:418 lotek/vc_extend/vc_shortcodes.php:423
+#: lotek/vc_extend/vc_shortcodes.php:577 lotek/vc_extend/vc_shortcodes.php:582
+#: lotek/vc_extend/vc_shortcodes.php:987 lotek/vc_extend/vc_shortcodes.php:992
+#: lotek/vc_extend/vc_shortcodes.php:1366
+#: lotek/vc_extend/vc_shortcodes.php:1371
+#: lotek/vc_extend/vc_shortcodes.php:1751
+#: lotek/vc_extend/vc_shortcodes.php:1756
+#: lotek/vc_extend/vc_shortcodes.php:1903
+#: lotek/vc_extend/vc_shortcodes.php:1908
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:230 lotek/inc/cth_for_vc.php:236
+#: lotek/vc_extend/vc_shortcodes.php:212 lotek/vc_extend/vc_shortcodes.php:217
+#: lotek/vc_extend/vc_shortcodes.php:419 lotek/vc_extend/vc_shortcodes.php:424
+#: lotek/vc_extend/vc_shortcodes.php:578 lotek/vc_extend/vc_shortcodes.php:583
+#: lotek/vc_extend/vc_shortcodes.php:988 lotek/vc_extend/vc_shortcodes.php:993
+#: lotek/vc_extend/vc_shortcodes.php:1367
+#: lotek/vc_extend/vc_shortcodes.php:1372
+#: lotek/vc_extend/vc_shortcodes.php:1752
+#: lotek/vc_extend/vc_shortcodes.php:1757
+#: lotek/vc_extend/vc_shortcodes.php:1904
+#: lotek/vc_extend/vc_shortcodes.php:1909
+msgid "rotateOutDownRight"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:231 lotek/inc/cth_for_vc.php:237
+#: lotek/vc_extend/vc_shortcodes.php:213 lotek/vc_extend/vc_shortcodes.php:218
+#: lotek/vc_extend/vc_shortcodes.php:420 lotek/vc_extend/vc_shortcodes.php:425
+#: lotek/vc_extend/vc_shortcodes.php:579 lotek/vc_extend/vc_shortcodes.php:584
+#: lotek/vc_extend/vc_shortcodes.php:989 lotek/vc_extend/vc_shortcodes.php:994
+#: lotek/vc_extend/vc_shortcodes.php:1368
+#: lotek/vc_extend/vc_shortcodes.php:1373
+#: lotek/vc_extend/vc_shortcodes.php:1753
+#: lotek/vc_extend/vc_shortcodes.php:1758
+#: lotek/vc_extend/vc_shortcodes.php:1905
+#: lotek/vc_extend/vc_shortcodes.php:1910
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:232 lotek/inc/cth_for_vc.php:238
+#: lotek/vc_extend/vc_shortcodes.php:214 lotek/vc_extend/vc_shortcodes.php:219
+#: lotek/vc_extend/vc_shortcodes.php:421 lotek/vc_extend/vc_shortcodes.php:426
+#: lotek/vc_extend/vc_shortcodes.php:580 lotek/vc_extend/vc_shortcodes.php:585
+#: lotek/vc_extend/vc_shortcodes.php:990 lotek/vc_extend/vc_shortcodes.php:995
+#: lotek/vc_extend/vc_shortcodes.php:1369
+#: lotek/vc_extend/vc_shortcodes.php:1374
+#: lotek/vc_extend/vc_shortcodes.php:1754
+#: lotek/vc_extend/vc_shortcodes.php:1759
+#: lotek/vc_extend/vc_shortcodes.php:1906
+#: lotek/vc_extend/vc_shortcodes.php:1911
+msgid "rotateOutUpRight"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:240 lotek/vc_extend/vc_shortcodes.php:220
+#: lotek/vc_extend/vc_shortcodes.php:427 lotek/vc_extend/vc_shortcodes.php:586
+#: lotek/vc_extend/vc_shortcodes.php:996
+#: lotek/vc_extend/vc_shortcodes.php:1375
+#: lotek/vc_extend/vc_shortcodes.php:1760
+#: lotek/vc_extend/vc_shortcodes.php:1912
+msgid "slideInDown"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:241 lotek/vc_extend/vc_shortcodes.php:221
+#: lotek/vc_extend/vc_shortcodes.php:428 lotek/vc_extend/vc_shortcodes.php:587
+#: lotek/vc_extend/vc_shortcodes.php:997
+#: lotek/vc_extend/vc_shortcodes.php:1376
+#: lotek/vc_extend/vc_shortcodes.php:1761
+#: lotek/vc_extend/vc_shortcodes.php:1913
+msgid "slideInLeft"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:242 lotek/vc_extend/vc_shortcodes.php:222
+#: lotek/vc_extend/vc_shortcodes.php:429 lotek/vc_extend/vc_shortcodes.php:588
+#: lotek/vc_extend/vc_shortcodes.php:998
+#: lotek/vc_extend/vc_shortcodes.php:1377
+#: lotek/vc_extend/vc_shortcodes.php:1762
+#: lotek/vc_extend/vc_shortcodes.php:1914
+msgid "slideInRight"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:243 lotek/vc_extend/vc_shortcodes.php:223
+#: lotek/vc_extend/vc_shortcodes.php:430 lotek/vc_extend/vc_shortcodes.php:589
+#: lotek/vc_extend/vc_shortcodes.php:999
+#: lotek/vc_extend/vc_shortcodes.php:1378
+#: lotek/vc_extend/vc_shortcodes.php:1763
+#: lotek/vc_extend/vc_shortcodes.php:1915
+msgid "slideOutLeft"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:244 lotek/vc_extend/vc_shortcodes.php:224
+#: lotek/vc_extend/vc_shortcodes.php:431 lotek/vc_extend/vc_shortcodes.php:590
+#: lotek/vc_extend/vc_shortcodes.php:1000
+#: lotek/vc_extend/vc_shortcodes.php:1379
+#: lotek/vc_extend/vc_shortcodes.php:1764
+#: lotek/vc_extend/vc_shortcodes.php:1916
+msgid "slideOutRight"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:245 lotek/vc_extend/vc_shortcodes.php:225
+#: lotek/vc_extend/vc_shortcodes.php:432 lotek/vc_extend/vc_shortcodes.php:591
+#: lotek/vc_extend/vc_shortcodes.php:1001
+#: lotek/vc_extend/vc_shortcodes.php:1380
+#: lotek/vc_extend/vc_shortcodes.php:1765
+#: lotek/vc_extend/vc_shortcodes.php:1917
+msgid "slideOutUp"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:246 lotek/vc_extend/vc_shortcodes.php:226
+#: lotek/vc_extend/vc_shortcodes.php:433 lotek/vc_extend/vc_shortcodes.php:592
+#: lotek/vc_extend/vc_shortcodes.php:1002
+#: lotek/vc_extend/vc_shortcodes.php:1381
+#: lotek/vc_extend/vc_shortcodes.php:1766
+#: lotek/vc_extend/vc_shortcodes.php:1918
+msgid "slideInUp"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:247 lotek/vc_extend/vc_shortcodes.php:227
+#: lotek/vc_extend/vc_shortcodes.php:434 lotek/vc_extend/vc_shortcodes.php:593
+#: lotek/vc_extend/vc_shortcodes.php:1003
+#: lotek/vc_extend/vc_shortcodes.php:1382
+#: lotek/vc_extend/vc_shortcodes.php:1767
+#: lotek/vc_extend/vc_shortcodes.php:1919
+msgid "slideOutDown"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:249 lotek/vc_extend/vc_shortcodes.php:228
+#: lotek/vc_extend/vc_shortcodes.php:435 lotek/vc_extend/vc_shortcodes.php:594
+#: lotek/vc_extend/vc_shortcodes.php:1004
+#: lotek/vc_extend/vc_shortcodes.php:1383
+#: lotek/vc_extend/vc_shortcodes.php:1768
+#: lotek/vc_extend/vc_shortcodes.php:1920
+msgid "hinge"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:251 lotek/vc_extend/vc_shortcodes.php:229
+#: lotek/vc_extend/vc_shortcodes.php:436 lotek/vc_extend/vc_shortcodes.php:595
+#: lotek/vc_extend/vc_shortcodes.php:1005
+#: lotek/vc_extend/vc_shortcodes.php:1384
+#: lotek/vc_extend/vc_shortcodes.php:1769
+#: lotek/vc_extend/vc_shortcodes.php:1921
+msgid "rollIn"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:252 lotek/vc_extend/vc_shortcodes.php:230
+#: lotek/vc_extend/vc_shortcodes.php:437 lotek/vc_extend/vc_shortcodes.php:596
+#: lotek/vc_extend/vc_shortcodes.php:1006
+#: lotek/vc_extend/vc_shortcodes.php:1385
+#: lotek/vc_extend/vc_shortcodes.php:1770
+#: lotek/vc_extend/vc_shortcodes.php:1922
+msgid "rollOut"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:255 lotek/vc_extend/vc_shortcodes.php:231
+#: lotek/vc_extend/vc_shortcodes.php:438 lotek/vc_extend/vc_shortcodes.php:597
+#: lotek/vc_extend/vc_shortcodes.php:1007
+#: lotek/vc_extend/vc_shortcodes.php:1386
+#: lotek/vc_extend/vc_shortcodes.php:1771
+#: lotek/vc_extend/vc_shortcodes.php:1923
+msgid "zoomIn"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:256 lotek/vc_extend/vc_shortcodes.php:232
+#: lotek/vc_extend/vc_shortcodes.php:439 lotek/vc_extend/vc_shortcodes.php:598
+#: lotek/vc_extend/vc_shortcodes.php:1008
+#: lotek/vc_extend/vc_shortcodes.php:1387
+#: lotek/vc_extend/vc_shortcodes.php:1772
+#: lotek/vc_extend/vc_shortcodes.php:1924
+msgid "zoomInUp"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:257 lotek/vc_extend/vc_shortcodes.php:233
+#: lotek/vc_extend/vc_shortcodes.php:440 lotek/vc_extend/vc_shortcodes.php:599
+#: lotek/vc_extend/vc_shortcodes.php:1009
+#: lotek/vc_extend/vc_shortcodes.php:1388
+#: lotek/vc_extend/vc_shortcodes.php:1773
+#: lotek/vc_extend/vc_shortcodes.php:1925
+msgid "zoomInDown"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:258 lotek/vc_extend/vc_shortcodes.php:234
+#: lotek/vc_extend/vc_shortcodes.php:441 lotek/vc_extend/vc_shortcodes.php:600
+#: lotek/vc_extend/vc_shortcodes.php:1010
+#: lotek/vc_extend/vc_shortcodes.php:1389
+#: lotek/vc_extend/vc_shortcodes.php:1774
+#: lotek/vc_extend/vc_shortcodes.php:1926
+msgid "zoomInLeft"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:259 lotek/vc_extend/vc_shortcodes.php:235
+#: lotek/vc_extend/vc_shortcodes.php:442 lotek/vc_extend/vc_shortcodes.php:601
+#: lotek/vc_extend/vc_shortcodes.php:1011
+#: lotek/vc_extend/vc_shortcodes.php:1390
+#: lotek/vc_extend/vc_shortcodes.php:1775
+#: lotek/vc_extend/vc_shortcodes.php:1927
+msgid "zoomInRight"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:261 lotek/vc_extend/vc_shortcodes.php:236
+#: lotek/vc_extend/vc_shortcodes.php:443 lotek/vc_extend/vc_shortcodes.php:602
+#: lotek/vc_extend/vc_shortcodes.php:1012
+#: lotek/vc_extend/vc_shortcodes.php:1391
+#: lotek/vc_extend/vc_shortcodes.php:1776
+#: lotek/vc_extend/vc_shortcodes.php:1928
+msgid "zoomOut"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:262 lotek/vc_extend/vc_shortcodes.php:237
+#: lotek/vc_extend/vc_shortcodes.php:444 lotek/vc_extend/vc_shortcodes.php:603
+#: lotek/vc_extend/vc_shortcodes.php:1013
+#: lotek/vc_extend/vc_shortcodes.php:1392
+#: lotek/vc_extend/vc_shortcodes.php:1777
+#: lotek/vc_extend/vc_shortcodes.php:1929
+msgid "zoomOutUp"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:263 lotek/vc_extend/vc_shortcodes.php:238
+#: lotek/vc_extend/vc_shortcodes.php:445 lotek/vc_extend/vc_shortcodes.php:604
+#: lotek/vc_extend/vc_shortcodes.php:1014
+#: lotek/vc_extend/vc_shortcodes.php:1393
+#: lotek/vc_extend/vc_shortcodes.php:1778
+#: lotek/vc_extend/vc_shortcodes.php:1930
+msgid "zoomOutDown"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:264 lotek/vc_extend/vc_shortcodes.php:239
+#: lotek/vc_extend/vc_shortcodes.php:446 lotek/vc_extend/vc_shortcodes.php:605
+#: lotek/vc_extend/vc_shortcodes.php:1015
+#: lotek/vc_extend/vc_shortcodes.php:1394
+#: lotek/vc_extend/vc_shortcodes.php:1779
+#: lotek/vc_extend/vc_shortcodes.php:1931
+msgid "zoomOutLeft"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:265 lotek/vc_extend/vc_shortcodes.php:240
+#: lotek/vc_extend/vc_shortcodes.php:447 lotek/vc_extend/vc_shortcodes.php:606
+#: lotek/vc_extend/vc_shortcodes.php:1016
+#: lotek/vc_extend/vc_shortcodes.php:1395
+#: lotek/vc_extend/vc_shortcodes.php:1780
+#: lotek/vc_extend/vc_shortcodes.php:1932
+msgid "zoomOutRight"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:267 lotek/vc_extend/vc_shortcodes.php:242
+#: lotek/vc_extend/vc_shortcodes.php:449 lotek/vc_extend/vc_shortcodes.php:608
+#: lotek/vc_extend/vc_shortcodes.php:1018
+#: lotek/vc_extend/vc_shortcodes.php:1397
+#: lotek/vc_extend/vc_shortcodes.php:1782
+#: lotek/vc_extend/vc_shortcodes.php:1934
+msgid "Add data effect"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:279 lotek/vc_extend/vc_shortcodes.php:251
+#: lotek/vc_extend/vc_shortcodes.php:458 lotek/vc_extend/vc_shortcodes.php:617
+#: lotek/vc_extend/vc_shortcodes.php:1027
+#: lotek/vc_extend/vc_shortcodes.php:1406
+#: lotek/vc_extend/vc_shortcodes.php:1791
+#: lotek/vc_extend/vc_shortcodes.php:1943
+msgid "Animation Delay"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:282 lotek/vc_extend/vc_shortcodes.php:254
+#: lotek/vc_extend/vc_shortcodes.php:461 lotek/vc_extend/vc_shortcodes.php:620
+#: lotek/vc_extend/vc_shortcodes.php:1030
+#: lotek/vc_extend/vc_shortcodes.php:1409
+#: lotek/vc_extend/vc_shortcodes.php:1794
+#: lotek/vc_extend/vc_shortcodes.php:1946
+msgid "Animation delay in second like 0.2s"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:297 lotek/vc_extend/vc_shortcodes.php:296
+#: lotek/vc_extend/vc_shortcodes.php:840
+#: lotek/vc_extend/vc_shortcodes.php:1629
+msgid "ID"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:300
+msgid "Id be matched with section parent id"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:308 lotek/inc/cth_for_vc.php:346
+msgid "Style"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:311 lotek/inc/cth_for_vc.php:349
+msgid "Style 1"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:312 lotek/inc/cth_for_vc.php:350
+msgid "Style 2"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:314 lotek/inc/cth_for_vc.php:352
+msgid "Style: 1 - no border, 2: bordered"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:322
+msgid "Parent ID"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:325
+msgid "Enter parent id to take effect"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:333 lotek/vc_extend/vc_shortcodes.php:86
+msgid "Icon"
+msgstr ""
+
+#: lotek/inc/cth_for_vc.php:336
+msgid "icon"
+msgstr ""
+
+#: lotek/includes/parsers.php:42 lotek/includes/parsers.php:72
+#: lotek/includes/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: lotek/includes/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: lotek/includes/parsers.php:84 lotek/includes/parsers.php:89
+#: lotek/includes/parsers.php:279 lotek/includes/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:134
+#: lotek/includes/wordpress-importer.php:143
+#: lotek/includes/wordpress-importer.php:194
+#: lotek/includes/wordpress-importer.php:198
+#: lotek/includes/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:511
+#: lotek/includes/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:1033
+msgid "Import WordPress"
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:1040
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:1055
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: lotek/includes/wordpress-importer.php:1056
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:66
+msgid "Feature Box Link"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:67
+msgid "Feature Box with icon"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:77 lotek/vc_extend/vc_shortcodes.php:298
+#: lotek/vc_extend/vc_shortcodes.php:842
+#: lotek/vc_extend/vc_shortcodes.php:1631
+msgid "Title"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:80
+msgid "Title display in featurebox."
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:95
+msgid "Link"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:98
+msgid "Link address to additional info."
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:104
+msgid "Content"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:107
+msgid "Content display in featurebox."
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:122
+msgid "Icon Animated"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:123
+msgid "Icon with animation option"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:133
+msgid "Icon name"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:136
+msgid "Awesome icon name."
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:142 lotek/vc_extend/vc_shortcodes.php:349
+#: lotek/vc_extend/vc_shortcodes.php:508 lotek/vc_extend/vc_shortcodes.php:918
+#: lotek/vc_extend/vc_shortcodes.php:1297
+#: lotek/vc_extend/vc_shortcodes.php:1682
+#: lotek/vc_extend/vc_shortcodes.php:1834
+msgid "Extra class"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:145 lotek/vc_extend/vc_shortcodes.php:352
+#: lotek/vc_extend/vc_shortcodes.php:511 lotek/vc_extend/vc_shortcodes.php:921
+#: lotek/vc_extend/vc_shortcodes.php:1300
+#: lotek/vc_extend/vc_shortcodes.php:1685
+#: lotek/vc_extend/vc_shortcodes.php:1837
+msgid "Extra class."
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:274
+msgid "Testimonials Slider"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:284 lotek/vc_extend/vc_shortcodes.php:828
+#: lotek/vc_extend/vc_shortcodes.php:1617
+msgid "Count"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:287
+msgid "Number of testimonials to show"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:292 lotek/vc_extend/vc_shortcodes.php:301
+#: lotek/vc_extend/vc_shortcodes.php:836 lotek/vc_extend/vc_shortcodes.php:845
+#: lotek/vc_extend/vc_shortcodes.php:1625
+#: lotek/vc_extend/vc_shortcodes.php:1634
+msgid "Order by"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:295 lotek/vc_extend/vc_shortcodes.php:839
+#: lotek/vc_extend/vc_shortcodes.php:1628
+msgid "Date"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:297 lotek/vc_extend/vc_shortcodes.php:841
+#: lotek/vc_extend/vc_shortcodes.php:1630
+msgid "Author"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:299 lotek/vc_extend/vc_shortcodes.php:843
+#: lotek/vc_extend/vc_shortcodes.php:1632
+msgid "Modified"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:307 lotek/vc_extend/vc_shortcodes.php:313
+#: lotek/vc_extend/vc_shortcodes.php:851 lotek/vc_extend/vc_shortcodes.php:857
+#: lotek/vc_extend/vc_shortcodes.php:1640
+#: lotek/vc_extend/vc_shortcodes.php:1646
+msgid "Order"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:310 lotek/vc_extend/vc_shortcodes.php:854
+#: lotek/vc_extend/vc_shortcodes.php:1643
+msgid "Descending"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:311 lotek/vc_extend/vc_shortcodes.php:855
+#: lotek/vc_extend/vc_shortcodes.php:1644
+msgid "Ascending"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:317
+#: lotek/vc_extend/vc_shortcodes.php:1650
+msgid "Or Enter Post IDs"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:319
+#: lotek/vc_extend/vc_shortcodes.php:1652
+msgid "Enter post ids to show, separated by a comma."
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:324
+#: lotek/vc_extend/vc_shortcodes.php:1657
+msgid "Autoplay"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:331
+#: lotek/vc_extend/vc_shortcodes.php:1664
+msgid "Animate slider automatically"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:336 lotek/vc_extend/vc_shortcodes.php:495
+msgid "Show Avatar"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:343 lotek/vc_extend/vc_shortcodes.php:502
+msgid "Show avatar image"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:480
+msgid "Single Testimonial"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:488
+msgid "Enter Testimonial ID"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:490
+msgid "Enter testimonial id to show"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:818
+msgid "Portfolios"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:831
+msgid "Number of portfolios to show"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:861
+msgid "Or Enter Portfolio IDs"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:863
+msgid "Enter portfolio ids to show, separated by a comma."
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:892
+msgid "Grid Columns"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:903
+msgid "Show single link"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:909
+msgid "Grid Spacing"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:912
+msgid "Ex: 10px"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:1251
+msgid "Team Member"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:1261
+msgid "Name"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:1264
+msgid "Member name"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:1270
+msgid "Job position"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:1273
+msgid "Member job."
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:1279
+msgid "Photo"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:1282
+msgid "Member photo."
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:1288
+#: lotek/vc_extend/vc_shortcodes.php:1291
+msgid "Socials Info"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:1607
+msgid "Blog Posts Slider"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:1620
+msgid "Number of posts to show, set -1 for all"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:1669
+msgid "Show Feature Image"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:1676
+msgid "Show feature image"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:1815
+msgid "Pricing Plan"
+msgstr ""
+
+#: lotek/vc_extend/vc_shortcodes.php:1825
+#: lotek/vc_extend/vc_shortcodes.php:1828
+msgid "Plan"
+msgstr ""
+
+#: lotek/vc_templates/featurebox_link.php:28
+#: lotek/vc_templates/featurebox_link_v2.php:28
+msgid "<i class=\"fa fa-link\"></i> Learn more"
+msgstr ""
+
+#: lotek/vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr ""
+
+#: lotek/vc_templates/vc_accordion_tab.php:12 lotek/vc_templates/vc_tab.php:9
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: lotek/vc_templates/vc_button.php:11
+msgid "Text on the button"
+msgstr ""
+
+#: lotek/vc_templates/vc_tabs.php:56
+msgid "Previous slide"
+msgstr ""
+
+#: lotek/vc_templates/vc_tabs.php:56
+msgid "Next slide"
+msgstr ""
